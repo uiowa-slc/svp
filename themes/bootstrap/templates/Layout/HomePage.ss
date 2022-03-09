@@ -19,7 +19,7 @@
                                             SVP on YouTube</a>
                                         </li>
                                         <li class="nav-item mr-3 link nav-item">
-                                            <a class="nav-link nav-link--large" href="$SiteConfig.InstagramLink" target="_blank" rel="noopener"><i class="fab fa-facebook"></i>
+                                            <a class="nav-link nav-link--large" href="$SiteConfig.InstagramLink" target="_blank" rel="noopener"><i class="fab fa-instagram"></i>
                                             Instagram</a>
                                         </li>
                                         <li class="nav-item mr-3 link nav-item">
